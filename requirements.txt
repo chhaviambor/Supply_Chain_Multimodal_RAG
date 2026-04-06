@@ -1,0 +1,14 @@
+google-generativeai
+google-genai
+streamlit
+pymupdf
+pdfplumber
+faiss-cpu
+neo4j
+pyvis
+pandas
+python-dotenv
+numpy
+pillow
+tenacity
+groq

@@ -1,0 +1,18 @@
+# Streamlit & Local Secrets
+.env
+.streamlit/secrets.toml
+
+# Python & System
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+.DS_Store
+
+# Data & Models
+temp_images/
+faiss_index.index
+faiss_index.meta
+temp_*.pdf
+nx.html
